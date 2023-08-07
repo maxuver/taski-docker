@@ -93,3 +93,17 @@ services:
     ports:
       - 8000:80
 ```
+
+### Link to the Deployed Application:
+
+- #### [https://kittygram.myvnc.com](https://patsyuk.servemp3.com)https://patsyuk.servemp3.com
+![image](https://github.com/maxuver/taski-docker/assets/78837452/22fe41d4-bc90-406e-bcae-555f09b763af)
+![image](https://github.com/maxuver/taski-docker/assets/78837452/f6b95eee-0b54-40dd-adf1-1c34991a6320)
+![image](https://github.com/maxuver/taski-docker/assets/78837452/9d35170b-c1d8-41e7-8ffa-d5a7f563c0d5)
+![image](https://github.com/maxuver/taski-docker/assets/78837452/4f9982e5-61fb-4902-bc01-f2dbf65b099e)
+![image](https://github.com/maxuver/taski-docker/assets/78837452/dbc386d6-f0b0-4a46-b51b-05112e7c8212)
+
+
+
+
+
